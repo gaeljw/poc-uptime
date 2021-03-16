@@ -8,6 +8,12 @@ sites:
     url: https://thegardener.kelkoogroup.com/
   - name: developers.kkg
     url: https://developers.kelkoogroup.com/
+  - name: Test SAPISEARCH
+    url: $SAPISEARCH_URL
+    headers:
+    - "Authorization: Bearer $SAPISEARCH_TOKEN"
+    - "Content-Type: application/json"
+    - "Accept-Encoding: gzip"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
