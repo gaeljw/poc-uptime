@@ -1,7 +1,7 @@
 url: $SAPISEARCH_URL
-status: up
-code: 200
-responseTime: 362
-lastUpdated: 2021-06-03T08:38:37.503Z
+status: down
+code: 404
+responseTime: 312
+lastUpdated: 2021-06-03T08:41:43.664Z
 startTime: Tue Mar 16 2021 15:48:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
