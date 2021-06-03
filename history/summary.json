@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
-    "timeDay": 811,
-    "timeWeek": 637,
-    "timeMonth": 627,
+    "timeDay": 812,
+    "timeWeek": 644,
+    "timeMonth": 628,
     "timeYear": 641,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 655,
-    "timeDay": 777,
-    "timeWeek": 763,
-    "timeMonth": 726,
+    "timeDay": 779,
+    "timeWeek": 764,
+    "timeMonth": 727,
     "timeYear": 655,
     "dailyMinutesDown": {}
   },
@@ -47,8 +47,8 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.95%",
     "time": 439,
-    "timeDay": 439,
-    "timeWeek": 494,
+    "timeDay": 447,
+    "timeWeek": 500,
     "timeMonth": 450,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -60,17 +60,19 @@
     "url": "$SAPILM_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test-sapilm",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 485,
-    "timeWeek": 485,
-    "timeMonth": 485,
-    "timeYear": 485,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 1917,
+    "timeDay": 1917,
+    "timeWeek": 1917,
+    "timeMonth": 1917,
+    "timeYear": 1917,
+    "dailyMinutesDown": {
+      "2021-06-03": 1
+    }
   }
 ]
