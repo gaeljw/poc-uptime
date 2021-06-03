@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
-    "timeDay": 802,
-    "timeWeek": 632,
+    "timeDay": 805,
+    "timeWeek": 634,
     "timeMonth": 627,
     "timeYear": 641,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 655,
-    "timeDay": 767,
-    "timeWeek": 760,
+    "timeDay": 771,
+    "timeWeek": 761,
     "timeMonth": 726,
     "timeYear": 655,
     "dailyMinutesDown": {}
@@ -40,18 +40,20 @@
     "url": "$SAPISEARCH_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test-sapisearch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 439,
-    "timeDay": 463,
-    "timeWeek": 496,
-    "timeMonth": 451,
+    "timeDay": 451,
+    "timeWeek": 494,
+    "timeMonth": 450,
     "timeYear": 439,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-03": 1
+    }
   },
   {
     "name": "Test SAPILM",
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 431,
-    "timeWeek": 431,
-    "timeMonth": 431,
-    "timeYear": 431,
+    "time": 369,
+    "timeDay": 369,
+    "timeWeek": 369,
+    "timeMonth": 369,
+    "timeYear": 369,
     "dailyMinutesDown": {}
   }
 ]
