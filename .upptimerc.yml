@@ -20,6 +20,10 @@ sites:
     - "Authorization: Bearer $SAPISEARCH_TOKEN"
     - "Content-Type: application/json"
     - "Accept-Encoding: gzip"
+    expectedStatusCodes:
+    - 200
+    - 404
+    __dangerous__body_down: "No context-path matches the request URI"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
