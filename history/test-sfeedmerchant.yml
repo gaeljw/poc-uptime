@@ -1,7 +1,7 @@
 url: $SFEEDMERCHANT_URL
-status: down
-code: 502
-responseTime: 349
-lastUpdated: 2021-09-16T11:57:06.805Z
+status: up
+code: 200
+responseTime: 560
+lastUpdated: 2021-09-16T13:28:21.462Z
 startTime: Thu Jun 03 2021 14:04:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
