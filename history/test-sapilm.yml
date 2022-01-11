@@ -1,7 +1,7 @@
 url: $SAPILM_URL
-status: up
-code: 404
-responseTime: 233
-lastUpdated: 2022-01-10T23:15:09.515Z
+status: down
+code: 503
+responseTime: 166
+lastUpdated: 2022-01-11T18:55:00.102Z
 startTime: Thu Jun 03 2021 08:10:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
