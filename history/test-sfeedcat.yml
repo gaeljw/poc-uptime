@@ -1,7 +1,7 @@
 url: $SFEEDCAT_URL
-status: up
-code: 200
-responseTime: 179
-lastUpdated: 2022-03-03T23:13:57.014Z
+status: down
+code: 401
+responseTime: 2250
+lastUpdated: 2022-03-04T09:29:58.061Z
 startTime: Thu Jun 03 2021 14:24:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
