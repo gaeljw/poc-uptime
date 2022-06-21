@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/thegardener.kelkoogroup.com",
     "slug": "the-gardener",
     "status": "up",
-    "uptime": "95.93%",
+    "uptime": "95.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "94.84%",
     "time": 782,
-    "timeDay": 911,
-    "timeWeek": 823,
-    "timeMonth": 931,
+    "timeDay": 890,
+    "timeWeek": 847,
+    "timeMonth": 923,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2022-06-15": 38,
@@ -66,15 +66,15 @@
     "icon": "https://favicons.githubusercontent.com/developers.kelkoogroup.com",
     "slug": "developers-kkg",
     "status": "up",
-    "uptime": "89.72%",
+    "uptime": "89.73%",
     "uptimeDay": "98.93%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "86.97%",
     "time": 799,
-    "timeDay": 1505,
-    "timeWeek": 1609,
-    "timeMonth": 2557,
+    "timeDay": 1559,
+    "timeWeek": 1632,
+    "timeMonth": 2555,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2022-06-20": 15,
@@ -156,8 +156,8 @@
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.16%",
     "time": 439,
-    "timeDay": 800,
-    "timeWeek": 611,
+    "timeDay": 588,
+    "timeWeek": 645,
     "timeMonth": 725,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -192,10 +192,10 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.17%",
     "time": 215,
-    "timeDay": 1745,
-    "timeWeek": 469,
-    "timeMonth": 586,
-    "timeYear": 215,
+    "timeDay": 294,
+    "timeWeek": 485,
+    "timeMonth": 585,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2022-06-01": 32,
       "2022-05-27": 45,
@@ -228,10 +228,10 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "98.69%",
     "time": 916,
-    "timeDay": 1508,
-    "timeWeek": 1382,
-    "timeMonth": 1376,
-    "timeYear": 916,
+    "timeDay": 1638,
+    "timeWeek": 1474,
+    "timeMonth": 1367,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2022-06-01": 32,
       "2022-05-27": 44,
@@ -264,8 +264,7 @@
       "2021-07-12": 40,
       "2021-06-30": 357,
       "2021-06-29": 592,
-      "2021-06-23": 260,
-      "2021-06-21": 43
+      "2021-06-23": 260
     }
   },
   {
@@ -280,10 +279,10 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "98.94%",
     "time": 258,
-    "timeDay": 261,
-    "timeWeek": 272,
-    "timeMonth": 324,
-    "timeYear": 259,
+    "timeDay": 385,
+    "timeWeek": 311,
+    "timeMonth": 322,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2022-06-01": 32,
       "2022-05-27": 44,
@@ -312,8 +311,7 @@
       "2021-07-26": 38,
       "2021-07-20": 423,
       "2021-07-12": 40,
-      "2021-06-23": 260,
-      "2021-06-21": 43
+      "2021-06-23": 260
     }
   },
   {
@@ -328,10 +326,10 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "98.90%",
     "time": 905,
-    "timeDay": 407,
-    "timeWeek": 497,
-    "timeMonth": 387,
-    "timeYear": 914,
+    "timeDay": 274,
+    "timeWeek": 493,
+    "timeMonth": 386,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2022-06-01": 32,
       "2022-05-27": 44,
@@ -362,8 +360,7 @@
       "2021-07-26": 38,
       "2021-07-20": 422,
       "2021-07-12": 39,
-      "2021-06-23": 260,
-      "2021-06-21": 42
+      "2021-06-23": 260
     }
   }
 ]
