@@ -47,7 +47,7 @@
     "status": "up",
     "uptime": "89.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.52%",
+    "uptimeWeek": "89.79%",
     "uptimeMonth": "79.52%",
     "uptimeYear": "88.50%",
     "time": 912,
@@ -285,7 +285,7 @@
     "timeDay": 385,
     "timeWeek": 1480,
     "timeMonth": 1214,
-    "timeYear": 821,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2022-08-17": 37,
       "2022-07-23": 166,
@@ -319,19 +319,19 @@
     "url": "$RAPI_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test-reporting-api",
-    "status": "down",
-    "uptime": "79.22%",
-    "uptimeDay": "79.22%",
-    "uptimeWeek": "79.22%",
-    "uptimeMonth": "79.22%",
-    "uptimeYear": "79.22%",
-    "time": 2823,
-    "timeDay": 2823,
-    "timeWeek": 2823,
-    "timeMonth": 2823,
-    "timeYear": 2823,
+    "status": "up",
+    "uptime": "62.93%",
+    "uptimeDay": "62.93%",
+    "uptimeWeek": "62.93%",
+    "uptimeMonth": "62.93%",
+    "uptimeYear": "62.93%",
+    "time": 2456,
+    "timeDay": 2456,
+    "timeWeek": 2456,
+    "timeMonth": 2456,
+    "timeYear": 2456,
     "dailyMinutesDown": {
-      "2022-08-22": 21
+      "2022-08-22": 48
     }
   }
 ]
