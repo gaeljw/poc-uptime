@@ -42,6 +42,12 @@ sites:
     - "Authorization: Bearer $SAPISEARCH_TOKEN"
     - "Content-Type: application/json"
     - "Accept-Encoding: gzip"
+  - name: Test ReportingAPI
+    url: $RAPI_URL
+    headers:
+    - "Authorization: Bearer $SAPISEARCH_TOKEN"
+    - "Accept: text/tab-separated-values"
+    - "Accept-Encoding: gzip"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
