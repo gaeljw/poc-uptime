@@ -14,7 +14,7 @@
     "timeDay": 1221,
     "timeWeek": 823,
     "timeMonth": 883,
-    "timeYear": 817,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2022-08-10": 356,
       "2022-06-15": 38,
@@ -41,7 +41,7 @@
     "icon": "https://favicons.githubusercontent.com/developers.kelkoogroup.com",
     "slug": "developers-kkg",
     "status": "up",
-    "uptime": "90.06%",
+    "uptime": "90.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "79.52%",
@@ -50,7 +50,7 @@
     "timeDay": 1421,
     "timeWeek": 1490,
     "timeMonth": 1672,
-    "timeYear": 1239,
+    "timeYear": 1260,
     "dailyMinutesDown": {
       "2022-08-16": 447,
       "2022-08-15": 1440,
@@ -125,7 +125,7 @@
     "timeDay": 994,
     "timeWeek": 613,
     "timeMonth": 647,
-    "timeYear": 513,
+    "timeYear": 516,
     "dailyMinutesDown": {
       "2022-06-01": 49,
       "2022-05-27": 45,
@@ -160,7 +160,7 @@
     "timeDay": 322,
     "timeWeek": 223,
     "timeMonth": 477,
-    "timeYear": 258,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2022-08-24": 51,
       "2022-06-01": 32,
@@ -196,7 +196,7 @@
     "timeDay": 1875,
     "timeWeek": 1422,
     "timeMonth": 1357,
-    "timeYear": 1009,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2022-07-23": 141,
       "2022-06-01": 32,
@@ -235,7 +235,7 @@
     "timeDay": 606,
     "timeWeek": 359,
     "timeMonth": 310,
-    "timeYear": 251,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2022-06-01": 32,
       "2022-05-27": 44,
@@ -272,7 +272,7 @@
     "timeDay": 483,
     "timeWeek": 352,
     "timeMonth": 963,
-    "timeYear": 768,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2022-08-17": 37,
       "2022-07-23": 166,
@@ -303,18 +303,19 @@
     "url": "$RAPI_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test-reporting-api",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 1504,
     "timeDay": 1556,
     "timeWeek": 1432,
     "timeMonth": 1504,
     "timeYear": 1504,
     "dailyMinutesDown": {
+      "2022-09-07": 1,
       "2022-08-22": 96
     }
   }
