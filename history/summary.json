@@ -275,10 +275,10 @@
     "url": "$RAPI_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test-reporting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.02%",
     "time": 1827,
@@ -287,6 +287,7 @@
     "timeMonth": 1854,
     "timeYear": 1827,
     "dailyMinutesDown": {
+      "2022-09-25": 0,
       "2022-09-23": 29,
       "2022-09-07": 349,
       "2022-08-22": 96
