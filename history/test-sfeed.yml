@@ -1,7 +1,7 @@
 url: $SFEED_URL
-status: down
-code: 504
-responseTime: 10340
-lastUpdated: 2022-10-10T08:13:04.931Z
+status: up
+code: 200
+responseTime: 444
+lastUpdated: 2022-10-10T10:32:35.112Z
 startTime: Thu Jun 03 2021 14:24:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
