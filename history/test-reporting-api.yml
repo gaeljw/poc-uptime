@@ -1,7 +1,7 @@
 url: $RAPI_URL
-status: up
-code: 200
-responseTime: 1797
-lastUpdated: 2022-12-04T23:13:02.745Z
+status: down
+code: 502
+responseTime: 10181
+lastUpdated: 2022-12-05T08:59:34.290Z
 startTime: Mon Aug 22 2022 12:10:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
